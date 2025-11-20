@@ -1,0 +1,7 @@
+--Z tabulky company
+    -- pocet company_id dle curr_id
+    -- unikatni country_code
+    -- pocet company_id kde country_code je NULL
+    -- pocet company_id dle curr_id, country_code, razeno sestupne
+    -- pocet company_name kde company_id neni prazdny
+    -- pocet radku, kde jsou prazdne company_name i company_id
